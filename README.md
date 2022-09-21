@@ -1,5 +1,5 @@
-# Data projects
-Projects I've done in Data Camp
+# Data Analysis/Science projects
+Projects I have done in Data Camp. Most of them are done in Python except for few of them.
 
 1. Investigating the duration of Netflix Movies over the years
 2. Github - History of Scala language 
